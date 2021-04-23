@@ -1,4 +1,4 @@
-# scikit-learn-LDAfast
+# scikit-learn-fastLDA
 An optimized cython version of LDA model implemented in scikit-learn
 
 ## Installation
