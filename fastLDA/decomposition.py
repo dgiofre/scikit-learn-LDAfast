@@ -16,6 +16,8 @@ from sklearn.decomposition._online_lda_fast import (mean_change, _dirichlet_expe
 
 from .clib.lda import _update_doc_distribution_cython
 
+__author__ = "Daniele Giofre'"
+__version__= "0.1.0"
 
 
 class LatentDirichletAllocation_fast(TransformerMixin, BaseEstimator):

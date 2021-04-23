@@ -12,7 +12,7 @@ pyenv install 3.7.9
 pyenv virtualenv 3.7.9 fastLDA_3.7
 
 cd {YOUR_DIR_PATH}/scikit-learn-LDAfast
-pyenv local fastLDA
+pyenv local fastLDA_3.7
 ```
 
 Now open a new terminal and navigate in the code directory.
